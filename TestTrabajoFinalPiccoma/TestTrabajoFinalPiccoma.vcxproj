@@ -112,8 +112,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CCHashEntidad.h" />
     <ClInclude Include="CComic.h" />
     <ClInclude Include="CGrafo.h" />
+    <ClInclude Include="CHashTable.h" />
     <ClInclude Include="CRevista.h" />
   </ItemGroup>
   <ItemGroup>
